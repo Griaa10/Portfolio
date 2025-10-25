@@ -1,6 +1,7 @@
 🚀 Alexsander Grigorev - Portfolio 
 
 [![GitHub Portfolio](https://img.shields.io/badge/🐙-GitHub_Portfolio-181717)](https://github.com/Griaa10/Portfolio)
+[![Resume](https://img.shields.io/badge/📄-Резюме_Google_Docs-4285F4)](https://docs.google.com/document/d/1MvycF6n_z_YJvKcDuVuR5kXkSPJBXP2lqzg0u-VdXw0/edit?usp=sharing)
 [![Telegram](https://img.shields.io/badge/📱-@griaa10-26A5E4)](https://t.me/griaa10)
 [![Email](https://img.shields.io/badge/📧-griaa10@mail.ru-D14836)](mailto:griaa10@mail.ru)
 
