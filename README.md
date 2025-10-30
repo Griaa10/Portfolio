@@ -1,5 +1,5 @@
 🚀 Alexsander Grigorev - **Data & Business Analyst** Portfolio 
-<small>
+
 [![GitHub Portfolio](https://img.shields.io/badge/🐙-GitHub_Portfolio-181717)](https://github.com/Griaa10/Portfolio)
 [![Telegram](https://img.shields.io/badge/📱-@griaa10-26A5E4)](https://t.me/griaa10)
 [![Email](https://img.shields.io/badge/📧-griaa10@mail.ru-D14836)](mailto:griaa10@mail.ru)
@@ -113,15 +113,17 @@
 - удаленно
 - гибкий график
 - гибрид (Новосибирск, с Q3-Q4 2026 - Санкт-Петербург)
+</small>
 
 ### 📞 Связаться со мной 
 [![GitHub Portfolio](https://img.shields.io/badge/🐙-GitHub_Portfolio-181717)](https://github.com/Griaa10/Portfolio)
 [![Telegram](https://img.shields.io/badge/📱-Написать_в_Telegram-26A5E4)](https://t.me/griaa10)
 [![Email](https://img.shields.io/badge/📧-Написать_на_почту-D14836)](mailto:griaa10@mail.ru)
+
 [![Resume](https://img.shields.io/badge/📄-Открыть резюме-4285F4)](https://docs.google.com/document/d/1MvycF6n_z_YJvKcDuVuR5kXkSPJBXP2lqzg0u-VdXw0/edit?usp=sharing)
 
 ---
-</small>
+
 ⭐ **Если портфолио было полезным — поставьте звезду репозиторию!**
 
 *Последнее обновление: октябрь 2025*
