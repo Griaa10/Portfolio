@@ -81,7 +81,7 @@
 
 ### 🏆[ДОСТИЖЕНИЯ И СЕРТИФИКАТЫ](https://clck.ru/3Q3oUq)
 
-#### 💼Профессиональные качества
+#### 👨‍💻Профессиональные качества
 - умение работать в команде
 - системный подход к решению проблем
 - управление ожиданиями и разрешение конфликтных ситуаций
@@ -119,8 +119,7 @@
 [![GitHub Portfolio](https://img.shields.io/badge/🐙-GitHub_Portfolio-181717)](https://github.com/Griaa10/Portfolio)
 [![Telegram](https://img.shields.io/badge/📱-Написать_в_Telegram-26A5E4)](https://t.me/griaa10)
 [![Email](https://img.shields.io/badge/📧-Написать_на_почту-D14836)](mailto:griaa10@mail.ru)
-
-[![Resume](https://img.shields.io/badge/📄-Открыть резюме-4285F4)](https://docs.google.com/document/d/1MvycF6n_z_YJvKcDuVuR5kXkSPJBXP2lqzg0u-VdXw0/edit?usp=sharing)
+[![Resume](https://img.shields.io/badge/📄-Открыть_резюме-4285F4)](https://clck.ru/3Q3p5i)
 
 ---
 
