@@ -3,14 +3,14 @@
 [![GitHub Portfolio](https://img.shields.io/badge/🐙-GitHub_Portfolio-181717)](https://github.com/Griaa10/Portfolio)
 [![Telegram](https://img.shields.io/badge/📱-@griaa10-26A5E4)](https://t.me/griaa10)
 [![Email](https://img.shields.io/badge/📧-griaa10@mail.ru-D14836)](mailto:griaa10@mail.ru)
-
+<small>
 ### 🎯 Ключевые компетенции:
 #### Data Analysis & Visualization
 - Языки программирования и библиотеки: Python, Pandas, NumPy, statsmodels, scipy, ML-модели, SQL
 - Визуализация: Matplotlib, Seaborn, Plotly, дашборды Datalens, Power BI
 - Платформы: Jupyter, Google Colab, Visual Studio Code
 - Методы анализа: data cleaning и предобработка, статистический, A/B тестирование
-
+</small>
 #### Business Process Optimization
 - Моделирование: нотации IDEF0, EPC, BPMN 2.0 
 - Методология и инструменты: интеллект-карты, матрицы рисков, референтные модели, улучшение процессов AS-IS → TO-BE, имитационное моделирование
