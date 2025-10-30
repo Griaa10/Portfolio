@@ -1,5 +1,5 @@
 🚀 Alexsander Grigorev - **Data & Business Analyst** Portfolio 
-
+<small>
 [![GitHub Portfolio](https://img.shields.io/badge/🐙-GitHub_Portfolio-181717)](https://github.com/Griaa10/Portfolio)
 [![Telegram](https://img.shields.io/badge/📱-@griaa10-26A5E4)](https://t.me/griaa10)
 [![Email](https://img.shields.io/badge/📧-griaa10@mail.ru-D14836)](mailto:griaa10@mail.ru)
@@ -10,7 +10,7 @@
 - Визуализация: Matplotlib, Seaborn, Plotly, дашборды Datalens, Power BI
 - Платформы: Jupyter, Google Colab, Visual Studio Code
 - Методы анализа: data cleaning и предобработка, статистический, A/B тестирование
-</small>
+
 #### Business Process Optimization
 - Моделирование: нотации IDEF0, EPC, BPMN 2.0 
 - Методология и инструменты: интеллект-карты, матрицы рисков, референтные модели, улучшение процессов AS-IS → TO-BE, имитационное моделирование
@@ -121,7 +121,7 @@
 [![Resume](https://img.shields.io/badge/📄-Открыть резюме-4285F4)](https://docs.google.com/document/d/1MvycF6n_z_YJvKcDuVuR5kXkSPJBXP2lqzg0u-VdXw0/edit?usp=sharing)
 
 ---
-
+</small>
 ⭐ **Если портфолио было полезным — поставьте звезду репозиторию!**
 
 *Последнее обновление: октябрь 2025*
