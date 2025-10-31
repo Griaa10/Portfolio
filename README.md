@@ -74,7 +74,8 @@
 #### Проект 5.	5.	Обучение модели 
 🔧 Технологии: Python, Pandas, NumPy, SQL, Jupyter
 📅 Период: ноябрь 2021 - Декабрь 2021  
-✨ Описание: тестирование моделей (Logistic Regression, DecisionTreeClassifier, RandomForrestClassifier, GradientBoostingClassifier и MLPClassifier) и выбор наиболее эффективной модели обучения 
+✨ Описание:
+- тестирование моделей (Logistic Regression, DecisionTreeClassifier, RandomForrestClassifier, GradientBoostingClassifier и MLPClassifier) и выбор наиболее эффективной модели обучения 
 
  **🔗 Ссылки:**
 - [Исходный код](https://clck.ru/3PUpe5)
